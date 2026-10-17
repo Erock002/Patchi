@@ -1,0 +1,1 @@
+{"name":"WaveShare ESP32-S3 Beam Controller \u0026 Simulator","description":"Companion Android controller \u0026 real-time simulator for WaveShare ESP32-S3 1.47-inch display. Send Now Playing album art, animated GIFs, and QR codes over BLE.","requestFramePermissions":["bluetooth"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}

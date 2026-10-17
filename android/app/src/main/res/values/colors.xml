@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color tools:ignore="UnusedResources" name="colorPrimary">#121214</color>
+    <color tools:ignore="UnusedResources" name="colorPrimaryDark">#121214</color>
+    <color tools:ignore="UnusedResources" name="colorAccent">#FFFFFF</color>
+    <color tools:ignore="UnusedResources" name="windowBackground">#121214</color>
+</resources>
